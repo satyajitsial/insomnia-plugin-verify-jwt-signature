@@ -6,7 +6,7 @@ This is a plugin for [Insomnia](https://insomnia.rest) to verify the JWT signatu
 -  Navigate to ~/AppData/Roaming/Insomnia/plugins folder in windows
 - Clone the github project
     ```sh
-    gh repo clone premaind/insomnia-plugin-response-assertion-snippets
+    git clone https://github.com/satyajitsial/insomnia-plugin-verify-jwt-signature.git
 - Install the insomnia plugin with following command
     ```sh
     npm install
