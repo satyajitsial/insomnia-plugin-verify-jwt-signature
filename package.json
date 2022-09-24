@@ -1,0 +1,19 @@
+{
+    "name": "insomnia-plugin-verify-jwt-signature",
+    "version": "1.0.1",
+    "description": "verify-jwt-signature using public key",
+    "license": "MIT",
+    "main": "./src/plugin.js",
+    "author": "Team Verifone GSC",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/michaelversus/insomnia-plugin-multiple-requests"
+    },
+    "insomnia": {
+        "name": "verify-jwt-signature",
+        "description": "verify-jwt-signature using public key"
+    },
+    "dependencies": {
+        "jsonwebtoken": "^8.5.1"
+    }
+}
